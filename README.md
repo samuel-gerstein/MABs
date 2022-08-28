@@ -2,6 +2,7 @@
 Multi-Arm Bandits (MABs) with i.i.d, non-stationary, and federated bandit examples.
 
 The paper (results.pdf) describes the first two parts of the experiment.
+
 The presentation (Federated MAB.pptx) describes the federated bandit experiment. 
 
 Projects: 
